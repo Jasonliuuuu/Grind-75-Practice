@@ -71,4 +71,4 @@ Feel free to use this repository as a resource or reference for your own Grind 7
 ## 📬 Contact
 
 If you have any suggestions, feedback, or just want to connect, feel free to reach out:
-- GitHub: [Jasonliuuu](https://github.com/Jasonliuuu)
+- GitHub: [Jasonliuuuu](https://github.com/Jasonliuuuu)
